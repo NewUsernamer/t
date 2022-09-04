@@ -1,0 +1,528 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Home | brucmerch</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/theme_stylesheets/193631094/1630595345/theme.css" media="screen" rel="stylesheet" type="text/css">
+    <!-- Served from Big Cartel MySQL Storefront -->
+<!-- Big Cartel generated meta tags -->
+<meta name="generator" content="Big Cartel" />
+<meta name="author" content="brucmerch" />
+<meta name="referrer" content="origin" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="brucmerch" />
+<meta property="og:title" content="brucmerch" />
+<meta property="og:url" content="https://brucmerch.bigcartel.com/" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="brucmerch" />
+<!-- end of generated meta tags -->
+
+<!-- Big Cartel generated link tags -->
+<link rel="canonical" href="https://brucmerch.bigcartel.com/" />
+<link rel="alternate" href="https://brucmerch.bigcartel.com/products.xml" type="application/rss+xml" title="Product Feed" />
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Asap" type="text/css" title="Google Fonts" />
+<!-- end of generated link tags -->
+
+        <script id="stripe-js" src="https://js.stripe.com/v3/" async></script>
+        <script type="text/javascript">
+          var _bcaq = _bcaq || [];
+          _bcaq.push(['_setUrl','stats1.bigcartel.com']);_bcaq.push(['_trackVisit','7052757']);
+          (function() {
+            var bca = document.createElement('script'); bca.type = 'text/javascript'; bca.async = true;
+            bca.src = '/stats.min.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bca, s);
+          })();
+        </script>
+
+  </head>
+
+  <body id="home_page" class="theme">
+    <a class="skip-link" href="#main">Skip to main content</a>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0&appId=1504448526533606&autoLogAppEvents=1';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    
+    <header>
+      <div class="wrapper">
+        <nav class="header-nav" role="navigation" aria-label="Main">
+          <ul>
+            <li><a href="/products">Products</a></li>
+            
+            <li><a href="/contact">Contact</a></li>
+            <li><a href="/cart">Cart</a></li>
+          </ul>
+        </nav>
+
+        <div class="branding">
+          <a href="/" title="Home">
+            
+              <img class="store-logo" srcset="https://assets.bigcartel.com/theme_images/65976129/BRUC-01.png?auto=format&fit=max&h=200&w=1068, https://assets.bigcartel.com/theme_images/65976129/BRUC-01.png?auto=format&fit=max&h=400&w=2136 2x" src="https://assets.bigcartel.com/theme_images/65976129/BRUC-01.png?auto=format&fit=max&h=200&w=1068" alt="brucmerch Home">
+            
+          </a>
+        </div>
+      </div>
+      <nav class="header-nav mobile-nav" aria-label="Mobile Main" role="navigation">
+        <ul>
+          <li>
+            <a href="/products">Products</a>
+          </li>
+          <li>
+            <a href="/contact">Contact</a>
+          </li>
+          <li>
+            <a href="/cart">Cart</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main" id="main">
+      <div class="fade-in wrapper">
+        
+
+        
+          
+  <div class="flexslider home-slideshow">
+    <ul class="slides">
+      
+        <li>
+          <img alt="" srcset="https://assets.bigcartel.com/theme_images/65976183/SVG+1+_1_.png?auto=format&fit=max&w=1068, https://assets.bigcartel.com/theme_images/65976183/SVG+1+_1_.png?auto=format&fit=max&w=2136 2x" src="https://assets.bigcartel.com/theme_images/65976183/SVG+1+_1_.png?auto=format&fit=max&w=1068">
+        </li>
+      
+    </ul>
+  </div>
+
+
+
+
+
+<h1 class="visually-hidden">Featured Products</h1>
+
+  
+    
+      <div class="product-list-container">
+        <div class="product-list">
+          
+            
+            
+            
+            <div class="product-list-thumb crop-to-square under_image">
+              <a class="product-list-link" href="/product/grey-cloud-dutty-tracksuit-bally" title="View Dutty Tracksuit Grey + Bally">
+                <div class="product-list-thumb-container">
+                  <figure class="product-list-image-container">
+                    <div class="image-wrapper">
+                      <img alt="" class="lazy product-list-image 
+              
+                image-square
+              
+            " src="https://assets.bigcartel.com/product_images/321688902/Untitled-28-07.jpg?auto=format&fit=max&h=30&w=30" data-src="https://assets.bigcartel.com/product_images/321688902/Untitled-28-07.jpg?auto=format&fit=max&h=346&w=346" data-srcset="https://assets.bigcartel.com/product_images/321688902/Untitled-28-07.jpg?auto=format&fit=max&h=692&w=692 2x, https://assets.bigcartel.com/product_images/321688902/Untitled-28-07.jpg?auto=format&fit=max&h=346&w=346 1x">
+                    </div>
+                  </figure>
+                </div>
+                <div class="product-list-thumb-info">
+                  <div class="product-list-item-background"></div>
+                  <div class="product-list-thumb-info-headers">
+                    <div class="product-list-thumb-name">Dutty Tracksuit Grey + Bally</div>
+                    <div class="product-list-thumb-price">
+                      
+                        <span class="currency_sign">&pound;</span>65.00
+                      
+                      
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          
+            
+            
+            
+            <div class="product-list-thumb crop-to-square under_image">
+              <a class="product-list-link" href="/product/khaki-cloud-dutty-tracksuit-bally" title="View Dutty Tracksuit Khaki + Bally">
+                <div class="product-list-thumb-container">
+                  <figure class="product-list-image-container">
+                    <div class="image-wrapper">
+                      <img alt="" class="lazy product-list-image 
+              
+                image-square
+              
+            " src="https://assets.bigcartel.com/product_images/321688779/Untitled-28-22.jpg?auto=format&fit=max&h=30&w=30" data-src="https://assets.bigcartel.com/product_images/321688779/Untitled-28-22.jpg?auto=format&fit=max&h=346&w=346" data-srcset="https://assets.bigcartel.com/product_images/321688779/Untitled-28-22.jpg?auto=format&fit=max&h=692&w=692 2x, https://assets.bigcartel.com/product_images/321688779/Untitled-28-22.jpg?auto=format&fit=max&h=346&w=346 1x">
+                    </div>
+                  </figure>
+                </div>
+                <div class="product-list-thumb-info">
+                  <div class="product-list-item-background"></div>
+                  <div class="product-list-thumb-info-headers">
+                    <div class="product-list-thumb-name">Dutty Tracksuit Khaki + Bally</div>
+                    <div class="product-list-thumb-price">
+                      
+                        <span class="currency_sign">&pound;</span>65.00
+                      
+                      
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          
+            
+            
+            
+            <div class="product-list-thumb crop-to-square under_image">
+              <a class="product-list-link" href="/product/blue-cloud-dutty-tracksuit-bally" title="View Dutty Tracksuit Blue + Bally">
+                <div class="product-list-thumb-container">
+                  <figure class="product-list-image-container">
+                    <div class="image-wrapper">
+                      <img alt="" class="lazy product-list-image 
+              
+                image-tall
+                
+              
+            " src="https://assets.bigcartel.com/product_images/321689058/Screen+Shot+2021-11-23+at+12.27.48.png?auto=format&fit=max&w=30" data-src="https://assets.bigcartel.com/product_images/321689058/Screen+Shot+2021-11-23+at+12.27.48.png?auto=format&fit=max&w=346" data-srcset="https://assets.bigcartel.com/product_images/321689058/Screen+Shot+2021-11-23+at+12.27.48.png?auto=format&fit=max&w=692 2x, https://assets.bigcartel.com/product_images/321689058/Screen+Shot+2021-11-23+at+12.27.48.png?auto=format&fit=max&w=346 1x">
+                    </div>
+                  </figure>
+                </div>
+                <div class="product-list-thumb-info">
+                  <div class="product-list-item-background"></div>
+                  <div class="product-list-thumb-info-headers">
+                    <div class="product-list-thumb-name">Dutty Tracksuit Blue + Bally</div>
+                    <div class="product-list-thumb-price">
+                      
+                        <span class="currency_sign">&pound;</span>65.00
+                      
+                      
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          
+            
+            
+            
+            <div class="product-list-thumb crop-to-square under_image">
+              <a class="product-list-link" href="/product/blue-dutty-joggers" title="View Blue Dutty Joggers">
+                <div class="product-list-thumb-container">
+                  <figure class="product-list-image-container">
+                    <div class="image-wrapper">
+                      <img alt="" class="lazy product-list-image 
+              
+                image-square
+              
+            " src="https://assets.bigcartel.com/product_images/321790440/Untitled-28-19.jpg?auto=format&fit=max&w=30" data-src="https://assets.bigcartel.com/product_images/321790440/Untitled-28-19.jpg?auto=format&fit=max&w=346" data-srcset="https://assets.bigcartel.com/product_images/321790440/Untitled-28-19.jpg?auto=format&fit=max&w=692 2x, https://assets.bigcartel.com/product_images/321790440/Untitled-28-19.jpg?auto=format&fit=max&w=346 1x">
+                    </div>
+                  </figure>
+                </div>
+                <div class="product-list-thumb-info">
+                  <div class="product-list-item-background"></div>
+                  <div class="product-list-thumb-info-headers">
+                    <div class="product-list-thumb-name">Blue Dutty Joggers</div>
+                    <div class="product-list-thumb-price">
+                      
+                        <span class="currency_sign">&pound;</span>30.00
+                      
+                      
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          
+            
+            
+            
+            <div class="product-list-thumb crop-to-square under_image">
+              <a class="product-list-link" href="/product/grey-dutty-joggers" title="View Grey Dutty Joggers">
+                <div class="product-list-thumb-container">
+                  <figure class="product-list-image-container">
+                    <div class="image-wrapper">
+                      <img alt="" class="lazy product-list-image 
+              
+                image-wide
+                
+              
+            " src="https://assets.bigcartel.com/product_images/321789600/Screen+Shot+2021-11-23+at+12.25.45.png?auto=format&fit=max" data-src="https://assets.bigcartel.com/product_images/321789600/Screen+Shot+2021-11-23+at+12.25.45.png?auto=format&fit=max" data-srcset="https://assets.bigcartel.com/product_images/321789600/Screen+Shot+2021-11-23+at+12.25.45.png?auto=format&fit=max 2x, https://assets.bigcartel.com/product_images/321789600/Screen+Shot+2021-11-23+at+12.25.45.png?auto=format&fit=max 1x">
+                    </div>
+                  </figure>
+                </div>
+                <div class="product-list-thumb-info">
+                  <div class="product-list-item-background"></div>
+                  <div class="product-list-thumb-info-headers">
+                    <div class="product-list-thumb-name">Grey Dutty Joggers</div>
+                    <div class="product-list-thumb-price">
+                      
+                        <span class="currency_sign">&pound;</span>30.00
+                      
+                      
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          
+            
+            
+            
+            <div class="product-list-thumb crop-to-square under_image">
+              <a class="product-list-link" href="/product/khaki-dutty-joggers" title="View Khaki Dutty Joggers">
+                <div class="product-list-thumb-container">
+                  <figure class="product-list-image-container">
+                    <div class="image-wrapper">
+                      <img alt="" class="lazy product-list-image 
+              
+                image-square
+              
+            " src="https://assets.bigcartel.com/product_images/321789408/Untitled-28-21.jpg?auto=format&fit=max" data-src="https://assets.bigcartel.com/product_images/321789408/Untitled-28-21.jpg?auto=format&fit=max" data-srcset="https://assets.bigcartel.com/product_images/321789408/Untitled-28-21.jpg?auto=format&fit=max 2x, https://assets.bigcartel.com/product_images/321789408/Untitled-28-21.jpg?auto=format&fit=max 1x">
+                    </div>
+                  </figure>
+                </div>
+                <div class="product-list-thumb-info">
+                  <div class="product-list-item-background"></div>
+                  <div class="product-list-thumb-info-headers">
+                    <div class="product-list-thumb-name">Khaki Dutty Joggers</div>
+                    <div class="product-list-thumb-price">
+                      
+                        <span class="currency_sign">&pound;</span>30.00
+                      
+                      
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          
+            
+            
+            
+            <div class="product-list-thumb crop-to-square under_image">
+              <a class="product-list-link" href="/product/bally" title="View Bally">
+                <div class="product-list-thumb-container">
+                  <figure class="product-list-image-container">
+                    <div class="image-wrapper">
+                      <img alt="" class="lazy product-list-image 
+              
+                image-tall
+                
+              
+            " src="https://assets.bigcartel.com/product_images/321785994/Screen+Shot+2021-11-24+at+09.42.59.png?auto=format&fit=max" data-src="https://assets.bigcartel.com/product_images/321785994/Screen+Shot+2021-11-24+at+09.42.59.png?auto=format&fit=max" data-srcset="https://assets.bigcartel.com/product_images/321785994/Screen+Shot+2021-11-24+at+09.42.59.png?auto=format&fit=max 2x, https://assets.bigcartel.com/product_images/321785994/Screen+Shot+2021-11-24+at+09.42.59.png?auto=format&fit=max 1x">
+                    </div>
+                  </figure>
+                </div>
+                <div class="product-list-thumb-info">
+                  <div class="product-list-item-background"></div>
+                  <div class="product-list-thumb-info-headers">
+                    <div class="product-list-thumb-name">Bally</div>
+                    <div class="product-list-thumb-price">
+                      
+                        <span class="currency_sign">&pound;</span>15.00
+                      
+                      
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          
+            
+            
+            
+            <div class="product-list-thumb crop-to-square under_image">
+              <a class="product-list-link" href="/product/khaki-cloud-dutty-hoodie" title="View Khaki Dutty Hoodie">
+                <div class="product-list-thumb-container">
+                  <figure class="product-list-image-container">
+                    <div class="image-wrapper">
+                      <img alt="" class="lazy product-list-image 
+              
+                image-square
+              
+            " src="https://assets.bigcartel.com/product_images/321689271/Screen+Shot+2021-11-23+at+12.24.10.png?auto=format&fit=max" data-src="https://assets.bigcartel.com/product_images/321689271/Screen+Shot+2021-11-23+at+12.24.10.png?auto=format&fit=max" data-srcset="https://assets.bigcartel.com/product_images/321689271/Screen+Shot+2021-11-23+at+12.24.10.png?auto=format&fit=max 2x, https://assets.bigcartel.com/product_images/321689271/Screen+Shot+2021-11-23+at+12.24.10.png?auto=format&fit=max 1x">
+                    </div>
+                  </figure>
+                </div>
+                <div class="product-list-thumb-info">
+                  <div class="product-list-item-background"></div>
+                  <div class="product-list-thumb-info-headers">
+                    <div class="product-list-thumb-name">Khaki Dutty Hoodie</div>
+                    <div class="product-list-thumb-price">
+                      
+                        <span class="currency_sign">&pound;</span>35.00
+                      
+                      
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          
+            
+            
+            
+            <div class="product-list-thumb crop-to-square under_image">
+              <a class="product-list-link" href="/product/grey-cloud-dutty-hoodie" title="View Grey Dutty Hoodie">
+                <div class="product-list-thumb-container">
+                  <figure class="product-list-image-container">
+                    <div class="image-wrapper">
+                      <img alt="" class="lazy product-list-image 
+              
+                image-square
+              
+            " src="https://assets.bigcartel.com/product_images/321689220/Untitled-28-06.jpg?auto=format&fit=max" data-src="https://assets.bigcartel.com/product_images/321689220/Untitled-28-06.jpg?auto=format&fit=max" data-srcset="https://assets.bigcartel.com/product_images/321689220/Untitled-28-06.jpg?auto=format&fit=max 2x, https://assets.bigcartel.com/product_images/321689220/Untitled-28-06.jpg?auto=format&fit=max 1x">
+                    </div>
+                  </figure>
+                </div>
+                <div class="product-list-thumb-info">
+                  <div class="product-list-item-background"></div>
+                  <div class="product-list-thumb-info-headers">
+                    <div class="product-list-thumb-name">Grey Dutty Hoodie</div>
+                    <div class="product-list-thumb-price">
+                      
+                        <span class="currency_sign">&pound;</span>35.00
+                      
+                      
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          
+            
+            
+            
+            <div class="product-list-thumb crop-to-square under_image">
+              <a class="product-list-link" href="/product/blue-cloud-dutty-hood" title="View Blue Dutty Hood">
+                <div class="product-list-thumb-container">
+                  <figure class="product-list-image-container">
+                    <div class="image-wrapper">
+                      <img alt="" class="lazy product-list-image 
+              
+                image-square
+              
+            " src="https://assets.bigcartel.com/product_images/321689142/Untitled-28-15.jpg?auto=format&fit=max" data-src="https://assets.bigcartel.com/product_images/321689142/Untitled-28-15.jpg?auto=format&fit=max" data-srcset="https://assets.bigcartel.com/product_images/321689142/Untitled-28-15.jpg?auto=format&fit=max 2x, https://assets.bigcartel.com/product_images/321689142/Untitled-28-15.jpg?auto=format&fit=max 1x">
+                    </div>
+                  </figure>
+                </div>
+                <div class="product-list-thumb-info">
+                  <div class="product-list-item-background"></div>
+                  <div class="product-list-thumb-info-headers">
+                    <div class="product-list-thumb-name">Blue Dutty Hood</div>
+                    <div class="product-list-thumb-price">
+                      
+                        <span class="currency_sign">&pound;</span>35.00
+                      
+                      
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          
+            
+            
+            
+            <div class="product-list-thumb crop-to-square under_image">
+              <a class="product-list-link" href="/product/dutty-t-shirt-white" title="View Dutty T-shirt White">
+                <div class="product-list-thumb-container">
+                  <figure class="product-list-image-container">
+                    <div class="image-wrapper">
+                      <img alt="" class="lazy product-list-image 
+              
+                image-square
+              
+            " src="https://assets.bigcartel.com/product_images/321688695/Screen+Shot+2021-11-23+at+12.20.58.png?auto=format&fit=max" data-src="https://assets.bigcartel.com/product_images/321688695/Screen+Shot+2021-11-23+at+12.20.58.png?auto=format&fit=max" data-srcset="https://assets.bigcartel.com/product_images/321688695/Screen+Shot+2021-11-23+at+12.20.58.png?auto=format&fit=max 2x, https://assets.bigcartel.com/product_images/321688695/Screen+Shot+2021-11-23+at+12.20.58.png?auto=format&fit=max 1x">
+                    </div>
+                  </figure>
+                </div>
+                <div class="product-list-thumb-info">
+                  <div class="product-list-item-background"></div>
+                  <div class="product-list-thumb-info-headers">
+                    <div class="product-list-thumb-name">Dutty T-shirt White</div>
+                    <div class="product-list-thumb-price">
+                      
+                        <span class="currency_sign">&pound;</span>20.00
+                      
+                      
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          
+            
+            
+            
+            <div class="product-list-thumb crop-to-square under_image">
+              <a class="product-list-link" href="/product/dutty-black-t-shirt" title="View Dutty Black T-shirt">
+                <div class="product-list-thumb-container">
+                  <figure class="product-list-image-container">
+                    <div class="image-wrapper">
+                      <img alt="" class="lazy product-list-image 
+              
+                image-square
+              
+            " src="https://assets.bigcartel.com/product_images/321688557/Untitled-28-01.jpg?auto=format&fit=max" data-src="https://assets.bigcartel.com/product_images/321688557/Untitled-28-01.jpg?auto=format&fit=max" data-srcset="https://assets.bigcartel.com/product_images/321688557/Untitled-28-01.jpg?auto=format&fit=max 2x, https://assets.bigcartel.com/product_images/321688557/Untitled-28-01.jpg?auto=format&fit=max 1x">
+                    </div>
+                  </figure>
+                </div>
+                <div class="product-list-thumb-info">
+                  <div class="product-list-item-background"></div>
+                  <div class="product-list-thumb-info-headers">
+                    <div class="product-list-thumb-name">Dutty Black T-shirt</div>
+                    <div class="product-list-thumb-price">
+                      
+                        <span class="currency_sign">&pound;</span>20.00
+                      
+                      
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          
+        </div>
+      </div>
+    
+  
+
+
+        
+      </div>
+    </main>
+    
+    <footer>
+      <div class="wrapper">
+        <nav class="footer-nav" id="footer" role="navigation" aria-label="Footer">
+          <ul class="footer-links">
+            <li><a href="/">Home</a></li>
+            <li><a href="/products">Products</a></li>
+            
+            <li><a href="/contact">Contact</a></li>
+            <li><a href="/cart">Cart</a></li>
+            
+              <li>
+                <form class="search-form" name="search" action="/products" method="get" accept-charset="utf8">
+                  <input type="hidden" name="utf8" value='✓'>
+                  <label class="visually-hidden" for="search">Search products</label>
+                  <input class="search-input" id="search" name="search" placeholder="Search" type="text" autocomplete="off" />
+                  <button type="submit" class="search-button"><svg aria-hidden="true" class="search-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path d="M15.707 14.293l-3.112-3.092-.006-.004c.882-1.197 1.411-2.597 1.411-4.197 0-3.859-3.141-7-7-7s-7 3.1-7 7 3.141 7 7 7c1.575 0 3.025-.529 4.196-1.41v.006l3.093 3.111c.199.193.411.293.711.293s.512-.098.707-.293c.391-.407.393-1.007-.007-1.414zm-8.707-2.293c-2.757 0-5-2.243-5-5s2.243-5 5-5 5 2.2 5 5-2.243 5-5 5z"/></svg></button>
+                </form>
+              </li>
+            
+          </ul>
+          
+          
+          <div class="badge"><a href="https://www.bigcartel.com/?utm_source=bigcartel&utm_medium=credit&utm_campaign=7052757" title="Start your own store at Big Cartel now">Online Store by Big Cartel</a></div>
+        </nav>
+      </div>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="//cache1.bigcartel.com/api/5/api.gbp.js?v=1"></script>
+    <script src="//cache1.bigcartel.com/theme_assets/6/2.4.12/theme.js?v=1"></script>
+    
+  </body>
+</html>
